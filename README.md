@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/20916017/87002955-92675e80-c16f-11ea-8081-ea9170155ebc.gif)
+
+
 <!--
 **ElbertBalloDev/ElbertBalloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
